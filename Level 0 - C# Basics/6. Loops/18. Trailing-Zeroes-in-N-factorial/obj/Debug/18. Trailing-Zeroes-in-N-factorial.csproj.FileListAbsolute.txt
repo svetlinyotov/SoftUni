@@ -1,0 +1,6 @@
+D:\SoftUni\6. Loops\Homework\Loops\18. Trailing-Zeroes-in-N-factorial\bin\Debug\_18.Trailing_Zeroes_in_N_factorial.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\18. Trailing-Zeroes-in-N-factorial\bin\Debug\_18.Trailing_Zeroes_in_N_factorial.exe
+D:\SoftUni\6. Loops\Homework\Loops\18. Trailing-Zeroes-in-N-factorial\bin\Debug\_18.Trailing_Zeroes_in_N_factorial.pdb
+D:\SoftUni\6. Loops\Homework\Loops\18. Trailing-Zeroes-in-N-factorial\obj\Debug\18. Trailing-Zeroes-in-N-factorial.csprojResolveAssemblyReference.cache
+D:\SoftUni\6. Loops\Homework\Loops\18. Trailing-Zeroes-in-N-factorial\obj\Debug\_18.Trailing_Zeroes_in_N_factorial.exe
+D:\SoftUni\6. Loops\Homework\Loops\18. Trailing-Zeroes-in-N-factorial\obj\Debug\_18.Trailing_Zeroes_in_N_factorial.pdb

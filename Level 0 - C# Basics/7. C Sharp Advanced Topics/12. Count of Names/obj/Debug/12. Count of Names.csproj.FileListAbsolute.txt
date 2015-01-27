@@ -1,0 +1,5 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\12. Count of Names\bin\Debug\_12.Count_of_Names.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\12. Count of Names\bin\Debug\_12.Count_of_Names.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\12. Count of Names\bin\Debug\_12.Count_of_Names.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\12. Count of Names\obj\Debug\_12.Count_of_Names.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\12. Count of Names\obj\Debug\_12.Count_of_Names.pdb

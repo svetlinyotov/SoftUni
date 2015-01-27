@@ -1,0 +1,9 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\17. Sunglasses\obj\Debug\17. Sunglasses.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb

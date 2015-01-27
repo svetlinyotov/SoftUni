@@ -1,0 +1,5 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 13. Triangle\bin\Debug\Problem_13.Triangle.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 13. Triangle\bin\Debug\Problem_13.Triangle.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 13. Triangle\bin\Debug\Problem_13.Triangle.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 13. Triangle\obj\Debug\Problem_13.Triangle.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 13. Triangle\obj\Debug\Problem_13.Triangle.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

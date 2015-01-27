@@ -1,0 +1,5 @@
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\14. Modify-a-Bit-at-Given-Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.exe.config
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\14. Modify-a-Bit-at-Given-Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\14. Modify-a-Bit-at-Given-Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.pdb
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\14. Modify-a-Bit-at-Given-Position\obj\Debug\_14.Modify_a_Bit_at_Given_Position.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\14. Modify-a-Bit-at-Given-Position\obj\Debug\_14.Modify_a_Bit_at_Given_Position.pdb

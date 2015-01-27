@@ -1,0 +1,5 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\05. The-Biggest-of-3-Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\05. The-Biggest-of-3-Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\05. The-Biggest-of-3-Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\05. The-Biggest-of-3-Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\05. The-Biggest-of-3-Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\6. Loops\Homework\Loops\24. Bit-Roller\bin\Debug\_24.Bit_Roller.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\24. Bit-Roller\bin\Debug\_24.Bit_Roller.exe
+D:\SoftUni\6. Loops\Homework\Loops\24. Bit-Roller\bin\Debug\_24.Bit_Roller.pdb
+D:\SoftUni\6. Loops\Homework\Loops\24. Bit-Roller\obj\Debug\24. Bit-Roller.csprojResolveAssemblyReference.cache
+D:\SoftUni\6. Loops\Homework\Loops\24. Bit-Roller\obj\Debug\_24.Bit_Roller.exe
+D:\SoftUni\6. Loops\Homework\Loops\24. Bit-Roller\obj\Debug\_24.Bit_Roller.pdb

@@ -1,0 +1,3 @@
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Print-Numbers\bin\Debug\Print-Numbers.exe.config
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.pdb

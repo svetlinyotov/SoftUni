@@ -1,0 +1,8 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\03. Variable-in-Hexadecimal-Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\03. Variable-in-Hexadecimal-Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\03. Variable-in-Hexadecimal-Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\03. Variable-in-Hexadecimal-Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\03. Variable-in-Hexadecimal-Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\03. Variable-in-Hexadecimal-Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\03. Variable-in-Hexadecimal-Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\03. Variable-in-Hexadecimal-Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.pdb

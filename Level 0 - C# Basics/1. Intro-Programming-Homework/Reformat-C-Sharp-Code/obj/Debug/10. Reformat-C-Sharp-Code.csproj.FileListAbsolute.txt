@@ -1,0 +1,3 @@
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Reformat-C-Sharp-Code\bin\Debug\Reformat-C-Sharp-Code.exe.config
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Reformat-C-Sharp-Code\obj\Debug\Reformat-C-Sharp-Code.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Reformat-C-Sharp-Code\obj\Debug\Reformat-C-Sharp-Code.pdb

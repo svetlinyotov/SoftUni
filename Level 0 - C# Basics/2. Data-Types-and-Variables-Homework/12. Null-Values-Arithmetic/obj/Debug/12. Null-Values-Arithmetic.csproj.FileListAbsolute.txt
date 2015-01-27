@@ -1,0 +1,9 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\12. Null-Values-Arithmetic\bin\Debug\_12.Null_Values_Arithmetic.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\12. Null-Values-Arithmetic\bin\Debug\_12.Null_Values_Arithmetic.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\12. Null-Values-Arithmetic\bin\Debug\_12.Null_Values_Arithmetic.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\12. Null-Values-Arithmetic\obj\Debug\12. Null-Values-Arithmetic.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\12. Null-Values-Arithmetic\obj\Debug\_12.Null_Values_Arithmetic.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\12. Null-Values-Arithmetic\obj\Debug\_12.Null_Values_Arithmetic.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\12. Null-Values-Arithmetic\bin\Debug\_12.Null_Values_Arithmetic.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\12. Null-Values-Arithmetic\obj\Debug\_12.Null_Values_Arithmetic.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\12. Null-Values-Arithmetic\obj\Debug\_12.Null_Values_Arithmetic.pdb

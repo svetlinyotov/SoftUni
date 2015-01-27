@@ -1,0 +1,6 @@
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Hello-C-Sharp\bin\Debug\Hello-C-Sharp.exe.config
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Hello-C-Sharp\obj\Debug\Hello-C-Sharp.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Hello-C-Sharp\obj\Debug\Hello-C-Sharp.pdb
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Hello-C-Sharp\bin\Debug\Hello-C-Sharp.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Hello-C-Sharp\bin\Debug\Hello-C-Sharp.pdb
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Hello-C-Sharp\obj\Debug\04. Hello-C-Sharp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\SoftUni\5. Conditional-Statements\Homework\C Sharp Advanced Topics\02. Prime-Checker\bin\Debug\_02.Prime_Checker.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\C Sharp Advanced Topics\02. Prime-Checker\bin\Debug\_02.Prime_Checker.exe
+D:\SoftUni\5. Conditional-Statements\Homework\C Sharp Advanced Topics\02. Prime-Checker\bin\Debug\_02.Prime_Checker.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\C Sharp Advanced Topics\02. Prime-Checker\obj\Debug\02. Prime-Checker.csprojResolveAssemblyReference.cache
+D:\SoftUni\5. Conditional-Statements\Homework\C Sharp Advanced Topics\02. Prime-Checker\obj\Debug\_02.Prime_Checker.exe
+D:\SoftUni\5. Conditional-Statements\Homework\C Sharp Advanced Topics\02. Prime-Checker\obj\Debug\_02.Prime_Checker.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\02. Prime-Checker\bin\Debug\_02.Prime_Checker.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\02. Prime-Checker\obj\Debug\_02.Prime_Checker.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\02. Prime-Checker\obj\Debug\_02.Prime_Checker.pdb

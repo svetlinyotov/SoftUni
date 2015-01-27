@@ -1,0 +1,8 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\10. Odd-and-Even-Product\bin\Debug\_10.Odd_and_Even_Product.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\10. Odd-and-Even-Product\bin\Debug\_10.Odd_and_Even_Product.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\10. Odd-and-Even-Product\bin\Debug\_10.Odd_and_Even_Product.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\10. Odd-and-Even-Product\obj\Debug\_10.Odd_and_Even_Product.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\10. Odd-and-Even-Product\obj\Debug\_10.Odd_and_Even_Product.pdb
+D:\SoftUni\6. Loops\Homework\Loops\10. Odd-and-Even-Product\bin\Debug\_10.Odd_and_Even_Product.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\10. Odd-and-Even-Product\obj\Debug\_10.Odd_and_Even_Product.exe
+D:\SoftUni\6. Loops\Homework\Loops\10. Odd-and-Even-Product\obj\Debug\_10.Odd_and_Even_Product.pdb

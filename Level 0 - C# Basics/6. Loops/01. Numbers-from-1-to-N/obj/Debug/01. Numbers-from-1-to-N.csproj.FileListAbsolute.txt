@@ -1,0 +1,9 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\01. Numbers-from-1-to-N\bin\Debug\_01.Numbers_from_1_to_N.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\01. Numbers-from-1-to-N\bin\Debug\_01.Numbers_from_1_to_N.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\01. Numbers-from-1-to-N\bin\Debug\_01.Numbers_from_1_to_N.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\01. Numbers-from-1-to-N\obj\Debug\01. Numbers-from-1-to-N.csprojResolveAssemblyReference.cache
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\01. Numbers-from-1-to-N\obj\Debug\_01.Numbers_from_1_to_N.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\01. Numbers-from-1-to-N\obj\Debug\_01.Numbers_from_1_to_N.pdb
+D:\SoftUni\6. Loops\Homework\Loops\01. Numbers-from-1-to-N\bin\Debug\_01.Numbers_from_1_to_N.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\01. Numbers-from-1-to-N\obj\Debug\_01.Numbers_from_1_to_N.exe
+D:\SoftUni\6. Loops\Homework\Loops\01. Numbers-from-1-to-N\obj\Debug\_01.Numbers_from_1_to_N.pdb

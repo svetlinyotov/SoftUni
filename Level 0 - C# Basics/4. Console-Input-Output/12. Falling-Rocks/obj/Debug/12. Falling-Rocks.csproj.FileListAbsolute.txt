@@ -1,0 +1,6 @@
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\12. Falling-Rocks\bin\Debug\_12.Falling_Rocks.exe.config
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\12. Falling-Rocks\bin\Debug\_12.Falling_Rocks.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\12. Falling-Rocks\bin\Debug\_12.Falling_Rocks.pdb
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\12. Falling-Rocks\obj\Debug\12. Falling-Rocks.csprojResolveAssemblyReference.cache
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\12. Falling-Rocks\obj\Debug\_12.Falling_Rocks.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\12. Falling-Rocks\obj\Debug\_12.Falling_Rocks.pdb

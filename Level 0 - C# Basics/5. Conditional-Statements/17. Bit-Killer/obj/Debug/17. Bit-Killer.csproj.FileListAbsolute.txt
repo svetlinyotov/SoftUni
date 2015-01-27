@@ -1,0 +1,6 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\17. Bit-Killer\bin\Debug\_17.Bit_Killer.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\17. Bit-Killer\bin\Debug\_17.Bit_Killer.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\17. Bit-Killer\bin\Debug\_17.Bit_Killer.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\17. Bit-Killer\obj\Debug\17. Bit-Killer.csprojResolveAssemblyReference.cache
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\17. Bit-Killer\obj\Debug\_17.Bit_Killer.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\17. Bit-Killer\obj\Debug\_17.Bit_Killer.pdb

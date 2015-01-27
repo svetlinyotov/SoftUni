@@ -1,0 +1,5 @@
+D:\SoftUni\6. Loops\Homework\Loops\21. Odd-Even-Elements\bin\Debug\_21.Odd_Even_Elements.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\21. Odd-Even-Elements\bin\Debug\_21.Odd_Even_Elements.exe
+D:\SoftUni\6. Loops\Homework\Loops\21. Odd-Even-Elements\bin\Debug\_21.Odd_Even_Elements.pdb
+D:\SoftUni\6. Loops\Homework\Loops\21. Odd-Even-Elements\obj\Debug\_21.Odd_Even_Elements.exe
+D:\SoftUni\6. Loops\Homework\Loops\21. Odd-Even-Elements\obj\Debug\_21.Odd_Even_Elements.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\07. Matrix of Palindromes\obj\Debug\07. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.pdb

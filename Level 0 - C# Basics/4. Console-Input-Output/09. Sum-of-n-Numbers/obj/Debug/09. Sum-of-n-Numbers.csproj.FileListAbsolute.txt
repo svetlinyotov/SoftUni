@@ -1,0 +1,5 @@
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\09. Sum-of-n-Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe.config
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\09. Sum-of-n-Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\09. Sum-of-n-Numbers\bin\Debug\_09.Sum_of_n_Numbers.pdb
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\09. Sum-of-n-Numbers\obj\Debug\_09.Sum_of_n_Numbers.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\09. Sum-of-n-Numbers\obj\Debug\_09.Sum_of_n_Numbers.pdb

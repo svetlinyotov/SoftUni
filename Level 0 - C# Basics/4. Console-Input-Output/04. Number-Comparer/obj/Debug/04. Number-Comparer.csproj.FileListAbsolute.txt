@@ -1,0 +1,6 @@
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\04. Number-Comparer\bin\Debug\_04.Number_Comparer.exe.config
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\04. Number-Comparer\bin\Debug\_04.Number_Comparer.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\04. Number-Comparer\bin\Debug\_04.Number_Comparer.pdb
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\04. Number-Comparer\obj\Debug\04. Number-Comparer.csprojResolveAssemblyReference.cache
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\04. Number-Comparer\obj\Debug\_04.Number_Comparer.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\04. Number-Comparer\obj\Debug\_04.Number_Comparer.pdb

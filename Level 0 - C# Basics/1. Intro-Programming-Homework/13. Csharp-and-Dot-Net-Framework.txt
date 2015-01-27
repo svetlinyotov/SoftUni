@@ -1,0 +1,2 @@
+C# and .NET Framework
+	NET isn't just a library, but also a runtime for executing applications. And the knowledge of C# implies some knowledge of .NET (because the C# object model corresponds to the .NET object model and you can do advnaced stuff in C# just by using .NET libraries). The opposite isn't necessarily true as you can use other languages to write .NET applications. Therefore it is very difficult to use Microsoft's implementation of C# without using the .NET framework as well.

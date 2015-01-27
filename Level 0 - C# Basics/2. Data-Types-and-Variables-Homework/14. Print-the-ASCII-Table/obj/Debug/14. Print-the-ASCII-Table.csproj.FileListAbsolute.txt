@@ -1,0 +1,8 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\14. Print-the-ASCII-Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\14. Print-the-ASCII-Table\obj\Debug\_14.Print_the_ASCII_Table.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\14. Print-the-ASCII-Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\14. Print-the-ASCII-Table\obj\Debug\_14.Print_the_ASCII_Table.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\06. Four-Digit-Number\bin\Debug\_06.Four_Digit_Number.exe.config
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\06. Four-Digit-Number\bin\Debug\_06.Four_Digit_Number.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\06. Four-Digit-Number\bin\Debug\_06.Four_Digit_Number.pdb
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\06. Four-Digit-Number\obj\Debug\_06.Four_Digit_Number.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\06. Four-Digit-Number\obj\Debug\_06.Four_Digit_Number.pdb

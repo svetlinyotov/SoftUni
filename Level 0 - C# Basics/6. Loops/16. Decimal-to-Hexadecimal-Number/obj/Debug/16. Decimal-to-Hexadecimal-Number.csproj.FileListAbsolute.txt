@@ -1,0 +1,9 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\16. Decimal-to-Hexadecimal-Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\16. Decimal-to-Hexadecimal-Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\16. Decimal-to-Hexadecimal-Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\16. Decimal-to-Hexadecimal-Number\obj\Debug\16. Decimal-to-Hexadecimal-Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\16. Decimal-to-Hexadecimal-Number\obj\Debug\_16.Decimal_to_Hexadecimal_Number.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\16. Decimal-to-Hexadecimal-Number\obj\Debug\_16.Decimal_to_Hexadecimal_Number.pdb
+D:\SoftUni\6. Loops\Homework\Loops\16. Decimal-to-Hexadecimal-Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\16. Decimal-to-Hexadecimal-Number\obj\Debug\_16.Decimal_to_Hexadecimal_Number.exe
+D:\SoftUni\6. Loops\Homework\Loops\16. Decimal-to-Hexadecimal-Number\obj\Debug\_16.Decimal_to_Hexadecimal_Number.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\07. Point-in-a-Circle\bin\Debug\_07.Point_in_a_Circle.exe.config
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\07. Point-in-a-Circle\bin\Debug\_07.Point_in_a_Circle.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\07. Point-in-a-Circle\bin\Debug\_07.Point_in_a_Circle.pdb
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\07. Point-in-a-Circle\obj\Debug\07. Point-in-a-Circle.csprojResolveAssemblyReference.cache
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\07. Point-in-a-Circle\obj\Debug\_07.Point_in_a_Circle.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\07. Point-in-a-Circle\obj\Debug\_07.Point_in_a_Circle.pdb

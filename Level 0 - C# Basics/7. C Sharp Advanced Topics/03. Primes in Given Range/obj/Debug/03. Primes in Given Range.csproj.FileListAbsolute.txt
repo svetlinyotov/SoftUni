@@ -1,0 +1,6 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\03. Primes in Given Range\obj\Debug\03. Primes in Given Range.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\03. Primes in Given Range\obj\Debug\_03.Primes_in_Given_Range.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\03. Primes in Given Range\obj\Debug\_03.Primes_in_Given_Range.pdb

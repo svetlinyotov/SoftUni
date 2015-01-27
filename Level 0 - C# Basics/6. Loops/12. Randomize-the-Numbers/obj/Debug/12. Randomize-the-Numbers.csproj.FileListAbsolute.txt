@@ -1,0 +1,9 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\12. Randomize-the-Numbers\bin\Debug\_12.Randomize_the_Numbers.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\12. Randomize-the-Numbers\obj\Debug\12. Randomize-the-Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\12. Randomize-the-Numbers\bin\Debug\_12.Randomize_the_Numbers.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\12. Randomize-the-Numbers\bin\Debug\_12.Randomize_the_Numbers.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\12. Randomize-the-Numbers\obj\Debug\_12.Randomize_the_Numbers.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\12. Randomize-the-Numbers\obj\Debug\_12.Randomize_the_Numbers.pdb
+D:\SoftUni\6. Loops\Homework\Loops\12. Randomize-the-Numbers\bin\Debug\_12.Randomize_the_Numbers.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\12. Randomize-the-Numbers\obj\Debug\_12.Randomize_the_Numbers.exe
+D:\SoftUni\6. Loops\Homework\Loops\12. Randomize-the-Numbers\obj\Debug\_12.Randomize_the_Numbers.pdb

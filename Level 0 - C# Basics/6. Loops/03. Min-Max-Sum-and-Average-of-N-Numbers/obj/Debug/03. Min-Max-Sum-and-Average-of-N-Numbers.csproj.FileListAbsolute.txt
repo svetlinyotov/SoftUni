@@ -1,0 +1,9 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\03. Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\03. Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\03. Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\03. Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\03. Min-Max-Sum-and-Average-of-N-Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\03. Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\03. Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.pdb
+D:\SoftUni\6. Loops\Homework\Loops\03. Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\03. Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.exe
+D:\SoftUni\6. Loops\Homework\Loops\03. Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.pdb

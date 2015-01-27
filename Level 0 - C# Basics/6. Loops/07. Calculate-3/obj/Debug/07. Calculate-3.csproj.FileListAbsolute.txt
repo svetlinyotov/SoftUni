@@ -1,0 +1,8 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\07. Calculate-3\bin\Debug\_07.Calculate_3.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\07. Calculate-3\bin\Debug\_07.Calculate_3.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\07. Calculate-3\bin\Debug\_07.Calculate_3.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\07. Calculate-3\obj\Debug\_07.Calculate_3.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\07. Calculate-3\obj\Debug\_07.Calculate_3.pdb
+D:\SoftUni\6. Loops\Homework\Loops\07. Calculate-3\bin\Debug\_07.Calculate_3.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\07. Calculate-3\obj\Debug\_07.Calculate_3.exe
+D:\SoftUni\6. Loops\Homework\Loops\07. Calculate-3\obj\Debug\_07.Calculate_3.pdb

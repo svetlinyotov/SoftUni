@@ -1,0 +1,5 @@
+D:\SoftUni\6. Loops\Homework\Loops\22. Arrow\bin\Debug\_22.Arrow.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\22. Arrow\bin\Debug\_22.Arrow.exe
+D:\SoftUni\6. Loops\Homework\Loops\22. Arrow\bin\Debug\_22.Arrow.pdb
+D:\SoftUni\6. Loops\Homework\Loops\22. Arrow\obj\Debug\_22.Arrow.exe
+D:\SoftUni\6. Loops\Homework\Loops\22. Arrow\obj\Debug\_22.Arrow.pdb

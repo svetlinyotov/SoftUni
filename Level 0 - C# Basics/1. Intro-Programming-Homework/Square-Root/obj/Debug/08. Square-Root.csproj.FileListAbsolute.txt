@@ -1,0 +1,5 @@
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Square-Root\bin\Debug\Square-Root.exe.config
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.pdb
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Square-Root\bin\Debug\Square-Root.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Square-Root\bin\Debug\Square-Root.pdb

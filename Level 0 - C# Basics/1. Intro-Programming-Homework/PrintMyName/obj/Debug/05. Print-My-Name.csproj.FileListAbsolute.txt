@@ -1,0 +1,3 @@
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\17. Catch-the-Bits\bin\Debug\_17.Catch_the_Bits.exe.config
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\17. Catch-the-Bits\bin\Debug\_17.Catch_the_Bits.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\17. Catch-the-Bits\bin\Debug\_17.Catch_the_Bits.pdb
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\17. Catch-the-Bits\obj\Debug\17. Catch-the-Bits.csprojResolveAssemblyReference.cache
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\17. Catch-the-Bits\obj\Debug\_17.Catch_the_Bits.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\17. Catch-the-Bits\obj\Debug\_17.Catch_the_Bits.pdb

@@ -1,0 +1,8 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\17. Calculate-GCD\bin\Debug\_17.Calculate_GCD.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\17. Calculate-GCD\bin\Debug\_17.Calculate_GCD.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\17. Calculate-GCD\bin\Debug\_17.Calculate_GCD.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\17. Calculate-GCD\obj\Debug\_17.Calculate_GCD.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\17. Calculate-GCD\obj\Debug\_17.Calculate_GCD.pdb
+D:\SoftUni\6. Loops\Homework\Loops\17. Calculate-GCD\bin\Debug\_17.Calculate_GCD.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\17. Calculate-GCD\obj\Debug\_17.Calculate_GCD.exe
+D:\SoftUni\6. Loops\Homework\Loops\17. Calculate-GCD\obj\Debug\_17.Calculate_GCD.pdb

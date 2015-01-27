@@ -1,0 +1,6 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\11. Count of Letters\bin\Debug\_11.Count_of_Letters.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\11. Count of Letters\bin\Debug\_11.Count_of_Letters.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\11. Count of Letters\bin\Debug\_11.Count_of_Letters.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\11. Count of Letters\obj\Debug\11. Count of Letters.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\11. Count of Letters\obj\Debug\_11.Count_of_Letters.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\11. Count of Letters\obj\Debug\_11.Count_of_Letters.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\11. Number-as-Words\bin\Debug\_11.Number_as_Words.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\11. Number-as-Words\bin\Debug\_11.Number_as_Words.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\11. Number-as-Words\bin\Debug\_11.Number_as_Words.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\11. Number-as-Words\obj\Debug\_11.Number_as_Words.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\11. Number-as-Words\obj\Debug\_11.Number_as_Words.pdb

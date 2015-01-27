@@ -1,0 +1,9 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\06. Strings-and-Objects\obj\Debug\06. Strings-and-Objects.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\06. Strings-and-Objects\obj\Debug\_06.Strings_and_Objects.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\06. Strings-and-Objects\obj\Debug\_06.Strings_and_Objects.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\06. Strings-and-Objects\obj\Debug\_06.Strings_and_Objects.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\06. Strings-and-Objects\obj\Debug\_06.Strings_and_Objects.pdb

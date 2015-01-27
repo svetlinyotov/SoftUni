@@ -1,0 +1,6 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 14. Pairs\bin\Debug\Problem_14.Pairs.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 14. Pairs\bin\Debug\Problem_14.Pairs.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 14. Pairs\bin\Debug\Problem_14.Pairs.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 14. Pairs\obj\Debug\Problem 14. Pairs.csprojResolveAssemblyReference.cache
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 14. Pairs\obj\Debug\Problem_14.Pairs.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 14. Pairs\obj\Debug\Problem_14.Pairs.pdb

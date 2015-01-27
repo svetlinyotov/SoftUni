@@ -1,0 +1,9 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\13. Binary-to-Decimal-Number\bin\Debug\_13.Binary_to_Decimal_Number.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\13. Binary-to-Decimal-Number\obj\Debug\13. Binary-to-Decimal-Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\13. Binary-to-Decimal-Number\bin\Debug\_13.Binary_to_Decimal_Number.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\13. Binary-to-Decimal-Number\bin\Debug\_13.Binary_to_Decimal_Number.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\13. Binary-to-Decimal-Number\obj\Debug\_13.Binary_to_Decimal_Number.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\13. Binary-to-Decimal-Number\obj\Debug\_13.Binary_to_Decimal_Number.pdb
+D:\SoftUni\6. Loops\Homework\Loops\13. Binary-to-Decimal-Number\bin\Debug\_13.Binary_to_Decimal_Number.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\13. Binary-to-Decimal-Number\obj\Debug\_13.Binary_to_Decimal_Number.exe
+D:\SoftUni\6. Loops\Homework\Loops\13. Binary-to-Decimal-Number\obj\Debug\_13.Binary_to_Decimal_Number.pdb

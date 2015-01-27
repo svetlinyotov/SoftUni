@@ -1,0 +1,5 @@
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\15. New-House\bin\Debug\_15.New_House.exe.config
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\15. New-House\bin\Debug\_15.New_House.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\15. New-House\bin\Debug\_15.New_House.pdb
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\15. New-House\obj\Debug\_15.New_House.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\15. New-House\obj\Debug\_15.New_House.pdb

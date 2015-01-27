@@ -1,0 +1,9 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\07. Quotes-in-Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\07. Quotes-in-Strings\bin\Debug\_07.Quotes_in_Strings.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\07. Quotes-in-Strings\bin\Debug\_07.Quotes_in_Strings.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\07. Quotes-in-Strings\obj\Debug\07. Quotes-in-Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\07. Quotes-in-Strings\obj\Debug\_07.Quotes_in_Strings.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\07. Quotes-in-Strings\obj\Debug\_07.Quotes_in_Strings.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\07. Quotes-in-Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\07. Quotes-in-Strings\obj\Debug\_07.Quotes_in_Strings.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\07. Quotes-in-Strings\obj\Debug\_07.Quotes_in_Strings.pdb

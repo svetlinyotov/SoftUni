@@ -1,0 +1,5 @@
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\11. Bitwise-Extract-Bit-3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe.config
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\11. Bitwise-Extract-Bit-3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\11. Bitwise-Extract-Bit-3\bin\Debug\_11.Bitwise_Extract_Bit_3.pdb
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\11. Bitwise-Extract-Bit-3\obj\Debug\_11.Bitwise_Extract_Bit_3.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\11. Bitwise-Extract-Bit-3\obj\Debug\_11.Bitwise_Extract_Bit_3.pdb

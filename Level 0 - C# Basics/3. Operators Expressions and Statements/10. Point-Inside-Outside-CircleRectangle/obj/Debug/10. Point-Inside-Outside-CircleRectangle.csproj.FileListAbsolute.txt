@@ -1,0 +1,1 @@
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\10. Point-Inside-Outside-CircleRectangle\bin\Debug\_10.Point_Inside_Outside_CircleRectangle.exe.config

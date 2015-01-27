@@ -1,0 +1,9 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\16. Half-Sum\bin\Debug\_16.Half_Sum.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\16. Half-Sum\bin\Debug\_16.Half_Sum.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\16. Half-Sum\bin\Debug\_16.Half_Sum.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\16. Half-Sum\obj\Debug\16. Half-Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\16. Half-Sum\obj\Debug\_16.Half_Sum.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\16. Half-Sum\obj\Debug\_16.Half_Sum.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\16. Half-Sum\bin\Debug\_16.Half_Sum.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\16. Half-Sum\obj\Debug\_16.Half_Sum.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\16. Half-Sum\obj\Debug\_16.Half_Sum.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\09. Remove Names\bin\Debug\_09.Remove_Names.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\09. Remove Names\bin\Debug\_09.Remove_Names.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\09. Remove Names\bin\Debug\_09.Remove_Names.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\09. Remove Names\obj\Debug\_09.Remove_Names.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\09. Remove Names\obj\Debug\_09.Remove_Names.pdb

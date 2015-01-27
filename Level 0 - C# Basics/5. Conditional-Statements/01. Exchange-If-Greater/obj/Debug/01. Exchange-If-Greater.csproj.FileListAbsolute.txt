@@ -1,0 +1,6 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\01. Exchange-If-Greater\bin\Debug\_01.Exchange_If_Greater.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\01. Exchange-If-Greater\bin\Debug\_01.Exchange_If_Greater.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\01. Exchange-If-Greater\bin\Debug\_01.Exchange_If_Greater.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\01. Exchange-If-Greater\obj\Debug\01. Exchange-If-Greater.csprojResolveAssemblyReference.cache
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\01. Exchange-If-Greater\obj\Debug\_01.Exchange_If_Greater.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\01. Exchange-If-Greater\obj\Debug\_01.Exchange_If_Greater.pdb

@@ -1,0 +1,15 @@
+C# vs. Java
+	The languages use very similar type systems. Both languages are statically typed with class-based object orientation. Both Java and C# support signed integers with bit widths of 8, 16, 32 and 64 bits. 
+	In Java the primitive types are special in that they are not object-oriented and they could not have been defined using the language itself. They also do not share a common ancestor with reference types.
+	
+C# vs. VB
+	Though C# and VB.NET are syntactically very different, that is where the differences mostly end. Microsoft developed both of these languages to be part of the same .NET Framework development platform. They are both developed, managed, and supported by the same language development team at Microsoft. As a result, with few exceptions, a program written in either language can be run through a simple syntax converter to translate to the other. 
+	
+C# vs. F#
+	F# gives you very easy integration of compiler and domain-specific languages, shorter and more elegant solutions and more flexible syntax. The advantages of C# are that it's often more accurate to "imperative"-applications than a functional programming language, that the .NET-Framework it uses is designed imperatively and that it's more widespread. Furthermore you can have F# and C# together in one solution, so you can combine the benefits of both languages and use them where they're needed.
+	
+C# vs. Python
+	Python for cross platform development and has the availability of open source libraries. C# has standard library, language features and development process and tools. It has beter performance. Python is better in readability but C# has more consistent syntax.
+	
+C# vs. PHP
+	You need to buy Windows, since ASP.NET development is possible only on a Windows machine and requires Windows hosting. PHP, on the other hand, is entirely free, runs on Linux web hosting, can be used on Windows, Mac or Linux.

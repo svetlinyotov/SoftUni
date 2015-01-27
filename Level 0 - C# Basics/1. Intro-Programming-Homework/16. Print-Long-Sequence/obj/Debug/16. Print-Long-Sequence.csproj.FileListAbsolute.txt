@@ -1,0 +1,6 @@
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\16. Print-Long-Sequence\bin\Debug\_16.Print_Long_Sequence.exe.config
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\16. Print-Long-Sequence\bin\Debug\_16.Print_Long_Sequence.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\16. Print-Long-Sequence\bin\Debug\_16.Print_Long_Sequence.pdb
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\16. Print-Long-Sequence\obj\Debug\16. Print-Long-Sequence.csprojResolveAssemblyReference.cache
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\16. Print-Long-Sequence\obj\Debug\_16.Print_Long_Sequence.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\16. Print-Long-Sequence\obj\Debug\_16.Print_Long_Sequence.pdb

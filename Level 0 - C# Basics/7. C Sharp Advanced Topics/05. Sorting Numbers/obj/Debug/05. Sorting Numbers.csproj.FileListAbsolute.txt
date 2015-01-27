@@ -1,0 +1,5 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.pdb

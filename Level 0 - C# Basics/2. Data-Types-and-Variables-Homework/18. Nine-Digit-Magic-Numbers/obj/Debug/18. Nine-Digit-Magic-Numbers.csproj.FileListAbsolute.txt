@@ -1,0 +1,9 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\18. Nine-Digit-Magic-Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.pdb

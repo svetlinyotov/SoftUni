@@ -1,0 +1,6 @@
+D:\SoftUni\6. Loops\Homework\Loops\19. Spiral-Matrix\bin\Debug\_19.Spiral_Matrix.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\19. Spiral-Matrix\bin\Debug\_19.Spiral_Matrix.exe
+D:\SoftUni\6. Loops\Homework\Loops\19. Spiral-Matrix\bin\Debug\_19.Spiral_Matrix.pdb
+D:\SoftUni\6. Loops\Homework\Loops\19. Spiral-Matrix\obj\Debug\_19.Spiral_Matrix.exe
+D:\SoftUni\6. Loops\Homework\Loops\19. Spiral-Matrix\obj\Debug\_19.Spiral_Matrix.pdb
+D:\SoftUni\6. Loops\Homework\Loops\19. Spiral-Matrix\obj\Debug\19. Spiral-Matrix.csprojResolveAssemblyReference.cache

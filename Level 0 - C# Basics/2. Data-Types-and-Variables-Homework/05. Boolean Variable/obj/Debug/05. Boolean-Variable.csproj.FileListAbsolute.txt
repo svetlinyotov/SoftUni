@@ -1,0 +1,8 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

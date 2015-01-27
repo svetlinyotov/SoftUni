@@ -1,0 +1,5 @@
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\08. Numbers-from-1-to-n\bin\Debug\_08.Numbers_from_1_to_n.exe.config
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\08. Numbers-from-1-to-n\bin\Debug\_08.Numbers_from_1_to_n.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\08. Numbers-from-1-to-n\bin\Debug\_08.Numbers_from_1_to_n.pdb
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\08. Numbers-from-1-to-n\obj\Debug\_08.Numbers_from_1_to_n.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\08. Numbers-from-1-to-n\obj\Debug\_08.Numbers_from_1_to_n.pdb

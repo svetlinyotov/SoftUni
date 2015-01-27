@@ -1,0 +1,6 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\08. Longest Non-Decreasing Subsequence\bin\Debug\_08.Longest_Non_Decreasing_Subsequence.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\08. Longest Non-Decreasing Subsequence\bin\Debug\_08.Longest_Non_Decreasing_Subsequence.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\08. Longest Non-Decreasing Subsequence\bin\Debug\_08.Longest_Non_Decreasing_Subsequence.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\08. Longest Non-Decreasing Subsequence\obj\Debug\08. Longest Non-Decreasing Subsequence.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\08. Longest Non-Decreasing Subsequence\obj\Debug\_08.Longest_Non_Decreasing_Subsequence.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\08. Longest Non-Decreasing Subsequence\obj\Debug\_08.Longest_Non_Decreasing_Subsequence.pdb

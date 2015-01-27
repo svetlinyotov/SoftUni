@@ -1,0 +1,6 @@
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\21. Bit-Sifting\bin\Debug\_21.Bit_Sifting.exe.config
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\21. Bit-Sifting\bin\Debug\_21.Bit_Sifting.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\21. Bit-Sifting\bin\Debug\_21.Bit_Sifting.pdb
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\21. Bit-Sifting\obj\Debug\21. Bit-Sifting.csprojResolveAssemblyReference.cache
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\21. Bit-Sifting\obj\Debug\_21.Bit_Sifting.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\21. Bit-Sifting\obj\Debug\_21.Bit_Sifting.pdb

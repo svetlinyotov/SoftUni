@@ -1,0 +1,9 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\19. Bits-Inverter\bin\Debug\_19.Bits_Inverter.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\19. Bits-Inverter\bin\Debug\_19.Bits_Inverter.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\19. Bits-Inverter\bin\Debug\_19.Bits_Inverter.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\19. Bits-Inverter\obj\Debug\19. Bits-Inverter.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\19. Bits-Inverter\obj\Debug\_19.Bits_Inverter.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\19. Bits-Inverter\obj\Debug\_19.Bits_Inverter.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\19. Bits-Inverter\bin\Debug\_19.Bits_Inverter.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\19. Bits-Inverter\obj\Debug\_19.Bits_Inverter.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\19. Bits-Inverter\obj\Debug\_19.Bits_Inverter.pdb

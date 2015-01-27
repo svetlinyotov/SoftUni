@@ -1,0 +1,9 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\02. Float-or-Double\obj\Debug\_02.Float_or_Double.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\02. Float-or-Double\obj\Debug\_02.Float_or_Double.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\02. Float-or-Double\obj\Debug\02. Float-or-Double.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\02. Float-or-Double\obj\Debug\_02.Float_or_Double.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\02. Float-or-Double\obj\Debug\_02.Float_or_Double.pdb

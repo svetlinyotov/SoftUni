@@ -1,0 +1,1 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\13. Average Load Time Calculator\bin\Debug\_13.Average_Load_Time_Calculator.exe.config

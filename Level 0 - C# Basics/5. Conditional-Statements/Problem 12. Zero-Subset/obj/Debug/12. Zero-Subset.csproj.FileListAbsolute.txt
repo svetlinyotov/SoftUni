@@ -1,0 +1,3 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 12. Zero-Subset\bin\Debug\Problem_12.Zero_Subset.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 12. Zero-Subset\obj\Debug\Problem_12.Zero_Subset.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Conditional-Statements\Problem 12. Zero-Subset\obj\Debug\Problem_12.Zero_Subset.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\18. Odd-Even-Sum\bin\Debug\_18.Odd_Even_Sum.exe.config
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\18. Odd-Even-Sum\bin\Debug\_18.Odd_Even_Sum.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\18. Odd-Even-Sum\bin\Debug\_18.Odd_Even_Sum.pdb
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\18. Odd-Even-Sum\obj\Debug\_18.Odd_Even_Sum.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\18. Odd-Even-Sum\obj\Debug\_18.Odd_Even_Sum.pdb

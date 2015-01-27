@@ -1,0 +1,6 @@
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\15. Age-After-10-Years\bin\Debug\_15.Age_After_10_Years.exe.config
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\15. Age-After-10-Years\bin\Debug\_15.Age_After_10_Years.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\15. Age-After-10-Years\bin\Debug\_15.Age_After_10_Years.pdb
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\15. Age-After-10-Years\obj\Debug\_15.Age_After_10_Years.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\15. Age-After-10-Years\obj\Debug\_15.Age_After_10_Years.pdb
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\15. Age-After-10-Years\obj\Debug\15. Age-After-10-Years.csprojResolveAssemblyReference.cache

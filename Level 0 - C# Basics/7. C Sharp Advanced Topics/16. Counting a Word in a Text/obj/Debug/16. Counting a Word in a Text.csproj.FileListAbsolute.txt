@@ -1,0 +1,1 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\16. Counting a Word in a Text\bin\Debug\_16.Counting_a_Word_in_a_Text.exe.config

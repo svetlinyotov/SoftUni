@@ -1,0 +1,5 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\06. Longest Area in Array\bin\Debug\_06.Longest_Area_in_Array.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\06. Longest Area in Array\bin\Debug\_06.Longest_Area_in_Array.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\06. Longest Area in Array\bin\Debug\_06.Longest_Area_in_Array.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\06. Longest Area in Array\obj\Debug\_06.Longest_Area_in_Array.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\06. Longest Area in Array\obj\Debug\_06.Longest_Area_in_Array.pdb

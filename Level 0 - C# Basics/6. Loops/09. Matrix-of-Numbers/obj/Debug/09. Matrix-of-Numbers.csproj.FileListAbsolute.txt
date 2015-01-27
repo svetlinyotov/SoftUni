@@ -1,0 +1,8 @@
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\09. Matrix-of-Numbers\bin\Debug\_09.Matrix_of_Numbers.exe.config
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\09. Matrix-of-Numbers\bin\Debug\_09.Matrix_of_Numbers.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\09. Matrix-of-Numbers\bin\Debug\_09.Matrix_of_Numbers.pdb
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\09. Matrix-of-Numbers\obj\Debug\_09.Matrix_of_Numbers.exe
+D:\SoftUni\5. Conditional-Statements\Homework\Loops\09. Matrix-of-Numbers\obj\Debug\_09.Matrix_of_Numbers.pdb
+D:\SoftUni\6. Loops\Homework\Loops\09. Matrix-of-Numbers\bin\Debug\_09.Matrix_of_Numbers.exe.config
+D:\SoftUni\6. Loops\Homework\Loops\09. Matrix-of-Numbers\obj\Debug\_09.Matrix_of_Numbers.exe
+D:\SoftUni\6. Loops\Homework\Loops\09. Matrix-of-Numbers\obj\Debug\_09.Matrix_of_Numbers.pdb

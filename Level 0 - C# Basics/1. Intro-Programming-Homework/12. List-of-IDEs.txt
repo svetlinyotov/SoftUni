@@ -1,0 +1,14 @@
+Eclipse
+	Eclipse is an integrated development environment that contains a base workspace and an extensible plug-in system for customizing the environment. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby, Scala, Clojure, Groovy, Scheme, and Erlang.
+	
+NetBeans
+	NetBeans is an IDE for developing primarily with Java, but also PHP, C/C++, and HTML5. The NetBeans IDE is written in Java and can run on Windows, OS X, Linux and other platforms supporting a compatible JVM. The NetBeans Platform allows applications to be developed from a set of modules. Applications based on the NetBeans Platform can be extended by third party developers.
+	
+Komodo Edit
+	Komodo Edit is a free text editor for dynamic programming languages. It is built on top of the Open Komodo project. Many of Komodo's features are derived from an embedded Python interpreter. Open Komodo uses Mozilla and Scintilla code base as they share many features and support the same languages (Python, Perl, PHP, Ruby, Tcl, SQL, Smarty, CSS, HTML and XML) and computer platforms (Linux, Mac OS X, and Windows)
+	
+SharpDevelop
+	SharpDevelop (#develop) is a free and open source (IDE) for the .NET Framework, Mono, Gtk# and Glade# platforms. It supports development in C#, Visual Basic .NET, Boo, F#, IronPython and IronRuby programming languages. It was designed as a free and lightweight alternative to Microsoft Visual Studio.
+	
+JetBrains
+	JetBrains WebStorm is a commercial IDE. WebStorm is a specialized version of PhpStorm, offering a subset of its features. WebStorm ships with pre-installed JavaScript plugins (such as for Node.js), which are available for PhpStorm as well at no cost. It provides automatic code completion, on-the-fly code analysis, refactoring support and VCS integration. Supported languages are JavaScript, CoffeeScript, TypeScript, Dart and others.

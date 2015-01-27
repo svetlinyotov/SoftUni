@@ -1,0 +1,5 @@
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Print-Sequence\bin\Debug\Print-Sequence.exe.config
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Print-Sequence\bin\Debug\Print-Sequence.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Print-Sequence\bin\Debug\Print-Sequence.pdb
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Print-Sequence\obj\Debug\Print-Sequence.exe
+D:\SoftUni\1. Introduction-to-Programming-Demos\Homework\Intro-Programming-Homework\Print-Sequence\obj\Debug\Print-Sequence.pdb

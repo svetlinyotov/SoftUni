@@ -1,0 +1,3 @@
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\02. Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.exe.config
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\02. Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.exe
+D:\SoftUni\3. Operators-Expressions-and-Statements\Homework\Operators Expressions and Statements\02. Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.pdb

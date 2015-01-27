@@ -1,0 +1,8 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\04. Unicode-Character\bin\Debug\_04.Unicode_Character.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\04. Unicode-Character\bin\Debug\_04.Unicode_Character.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\04. Unicode-Character\bin\Debug\_04.Unicode_Character.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\04. Unicode-Character\obj\Debug\_04.Unicode_Character.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\04. Unicode-Character\obj\Debug\_04.Unicode_Character.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\04. Unicode-Character\bin\Debug\_04.Unicode_Character.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\04. Unicode-Character\obj\Debug\_04.Unicode_Character.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\04. Unicode-Character\obj\Debug\_04.Unicode_Character.pdb

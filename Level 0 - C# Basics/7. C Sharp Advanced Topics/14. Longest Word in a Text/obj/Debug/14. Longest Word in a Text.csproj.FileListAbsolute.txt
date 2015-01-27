@@ -1,0 +1,5 @@
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.exe.config
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.pdb
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\14. Longest Word in a Text\obj\Debug\_14.Longest_Word_in_a_Text.exe
+D:\SoftUni\Level #0 C# Basics\7. CSharp-Advanced-Topics\Homework\C Sharp Advanced Topics\14. Longest Word in a Text\obj\Debug\_14.Longest_Word_in_a_Text.pdb

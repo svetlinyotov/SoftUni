@@ -1,0 +1,5 @@
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\11. Numbers-in-Interval-Dividable-by-Given-Number\bin\Debug\_11.Numbers_in_Interval_Dividable_by_Given_Number.exe.config
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\11. Numbers-in-Interval-Dividable-by-Given-Number\bin\Debug\_11.Numbers_in_Interval_Dividable_by_Given_Number.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\11. Numbers-in-Interval-Dividable-by-Given-Number\bin\Debug\_11.Numbers_in_Interval_Dividable_by_Given_Number.pdb
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\11. Numbers-in-Interval-Dividable-by-Given-Number\obj\Debug\_11.Numbers_in_Interval_Dividable_by_Given_Number.exe
+D:\SoftUni\4. Console-Input-Output\Homework\Console-Input-Output\11. Numbers-in-Interval-Dividable-by-Given-Number\obj\Debug\_11.Numbers_in_Interval_Dividable_by_Given_Number.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\15. Joro-the-Football-Player\bin\Debug\_15.Joro_the_Football_Player.exe.config
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\15. Joro-the-Football-Player\bin\Debug\_15.Joro_the_Football_Player.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\15. Joro-the-Football-Player\bin\Debug\_15.Joro_the_Football_Player.pdb
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\15. Joro-the-Football-Player\obj\Debug\15. Joro-the-Football-Player.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\15. Joro-the-Football-Player\obj\Debug\_15.Joro_the_Football_Player.exe
+D:\SoftUni\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\15. Joro-the-Football-Player\obj\Debug\_15.Joro_the_Football_Player.pdb
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\15. Joro-the-Football-Player\bin\Debug\_15.Joro_the_Football_Player.exe.config
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\15. Joro-the-Football-Player\obj\Debug\_15.Joro_the_Football_Player.exe
+D:\SoftUni\Level #0 C# Basics\2. Primitive-Data-Types-and-Variables-Demos\Homework\2. Data-Types-and-Variables-Homework\15. Joro-the-Football-Player\obj\Debug\_15.Joro_the_Football_Player.pdb
