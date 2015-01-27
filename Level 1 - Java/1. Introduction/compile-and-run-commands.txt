@@ -1,0 +1,2 @@
+javac P3_SumTwoNumbers.java
+java P3_SumTwoNumbers
